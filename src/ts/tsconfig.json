@@ -9,4 +9,12 @@
     "include": ["src/ts/**/"],
 }
 
-// Next step is to got to terminal and type "$ npm init" in bash (not powershell or terminal)
+// Next step is to got to bash and type "$ npm init" in bash (not powershell or terminal)
+// enter "package name: (gulp) gulp-example
+// version: (1.0.0)
+// description: A Gulp-enabled project for compiling SASAA and TypeScript
+// Entry point: (index.js) gulpfile.js
+// test command:
+// git repository: (paste repository here)
+// keywords: Gulp, TypeScript, TS,m SASS. scss
+// author: TC video tutorial by Manpower

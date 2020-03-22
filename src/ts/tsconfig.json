@@ -1,0 +1,14 @@
+// Every time we set up typescript, it helps to have this config file for that
+// How we want to compile - just basic options here - much more on website
+// being a json file, we need to follow the json format
+{
+    "compilerOptions": {
+        "outFile": "js/scripts.js"
+    },
+    // Include any files insider the src/ts/ folder by "**" 
+    "include": [
+        "src/ts/**/"
+    ],
+}
+
+Next step is to got to terminal and type "$ npm init"

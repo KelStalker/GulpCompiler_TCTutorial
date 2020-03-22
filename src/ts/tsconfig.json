@@ -6,9 +6,7 @@
         "outFile": "js/scripts.js"
     },
     // Include any files insider the src/ts/ folder by "**" 
-    "include": [
-        "src/ts/**/"
-    ],
+    "include": ["src/ts/**/"],
 }
 
-Next step is to got to terminal and type "$ npm init"
+// Next step is to got to terminal and type "$ npm init" in bash (not powershell or terminal)

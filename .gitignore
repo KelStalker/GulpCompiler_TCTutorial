@@ -1,1 +1,3 @@
 node_modules
+
+#  Ignores all the modules in the node folders so when pulling repo, just run npm install to re-include them
